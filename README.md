@@ -2,7 +2,7 @@
 
 Predicting which telecom customers are likely to churn, with a focus on evaluating models correctly on imbalanced data.
 
-**Course:** Applied AI/ML, The University of Texas at Dallas (Nov–Dec 2025)
+**Course:** Applied AI/ML, The University of Texas at Dallas (Nov–Dec 2025) · Team project
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 
 ## Problem
